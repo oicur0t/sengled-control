@@ -1,6 +1,6 @@
-## THIS IS THEORITICAL ONLY - NOT VERIFIED ##
 #!/bin/bash
 # Sengled App Key Extraction Methods
+## THIS IS THEORITICAL ONLY - NOT VERIFIED ##
 
 echo "🔑 SENGLED APP KEY EXTRACTION GUIDE"
 echo "=================================="
