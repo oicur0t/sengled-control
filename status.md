@@ -30,5 +30,8 @@ Bash(cd "/Volumes/Crucial X9/Nextcloud/dev/git/segled/sengled-control" &&
 
 This suggests that UDP command will not work while they cannot connect to Sengled.
 
+I am reviewing: https://www.reddit.com/r/SengledUS/comments/1mky9lz/expired_web_certificate/
+However I am not sure that bulbs will suddenly respond in this scenario without re-registration.
+
 ## Completed
 I am trying to review the SSL certs for all IPs on the Sengled servers and to verify their state. I have seen reports that you can us Home Automation to bypass cert issues. 
