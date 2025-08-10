@@ -306,7 +306,7 @@ def main():
     
     try:
         print(f"🚀 Starting rescue service on {local_ip}:8080...")
-        app.run(host='0.0.0.0', port=8080, debug=False)
+        app.run(host='0.0.0.0', port=80, debug=False)
     except KeyboardInterrupt:
         print("\n🛑 Rescue service stopped")
         
